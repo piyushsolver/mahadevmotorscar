@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /img/
+Disallow: /lib/
+Disallow: /css/
+Sitemap: https://www.mahadevmotorscar.com/sitemap.xml
